@@ -106,6 +106,8 @@
         <div class="icon"><img src="/assets/img/twitter.svg" /></div>
       </div>
 
+      <squarespace:navigation navigationId="mainNav" template="navigation" />
+
       <div class="imprint">
         <div class="left">© 2018. All rights reserved</div>
         <div class="right">Website by <a href="https://www.hannahpilbeam.co.uk" class="author">Hannah Pilbeam</a></div>
