@@ -30,7 +30,7 @@
           <div class="col-sm-12">
             <div class="narrow-container about">
               <squarespace:block-field id="title" columns="1"/>
-              <img class="underline" src="/img/triangle-underline.svg" />
+              <img class="underline" src="/assets/img/triangle-underline.svg" />
               <squarespace:block-field id="content" columns="1"/>
             </div>
           </div>
