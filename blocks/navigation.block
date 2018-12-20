@@ -2,14 +2,14 @@
   <ul style="list-style: none;">
 
     {.repeated section items}
-    <li class="{.section active} active-link{.end}" style="display: inline-block; margin-right: 30px;">
+    <li class="{.section active} active-link{.end}" style="display: inline-block; margin-right: 30px; margin-bottom: 10px;">
 
       {.section collection}
         <a href="{fullUrl}" style="color: black; font-weight: bold;">{navigationTitle}</a>
       {.end}
 
       {.section externalLink}
-        <a href="{url}"{.section newWindow} target="_blank"{.end}>{title}</a>
+        <a href="{url}"{.section newWindow} target="_blank"{.end} style="color: black; font-weight: bold;">{title}</a>
       {.end}
 
     </li>
