@@ -15,8 +15,8 @@
       <strong>We're sorry but campaign-together doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
     <div id="app"></div>
-    <script src="/assets/js/vendors.js"></script>
-    <script src="/assets/js/app.js"></script>
+    <script src="/assets/js/vendors-new.js"></script>
+    <script src="/assets/js/app-new.js"></script>
   </body>
 </html>
 
