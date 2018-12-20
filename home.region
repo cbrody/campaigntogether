@@ -89,7 +89,7 @@
 
         <div class="row cta">
           <div class="col-sm-12">
-            <a class="btn btn-black btn-arrow" href="index.html">Let's go <img class="arrow" src="/assets/img/button-arrow-white.svg" /></a>
+            <a class="btn btn-black btn-arrow" href="/survey">Let's go <img class="arrow" src="/assets/img/button-arrow-white.svg" /></a>
           </div>
         </div>
       </div>
