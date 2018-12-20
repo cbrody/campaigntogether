@@ -1,11 +1,11 @@
 <nav>
-  <ul>
+  <ul style="list-style: none;">
 
     {.repeated section items}
-    <li class="{.section active} active-link{.end}">
+    <li class="{.section active} active-link{.end}" style="display: inline-block; margin-right: 30px;">
 
       {.section collection}
-        <a href="{fullUrl}">{navigationTitle}</a>
+        <a href="{fullUrl}" style="color: black; font-weight: bold;">{navigationTitle}</a>
       {.end}
 
       {.section externalLink}
