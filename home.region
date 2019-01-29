@@ -20,7 +20,9 @@
           <div class="col-sm-12">
             <div class="hero-box">
               <img class="logo" src="/assets/img/logo.svg" />
-              <p class="lead">It's time to stop the Tories from winning another parliamentary majority at the next election!</p>
+              <p class="lead">
+                <squarespace:block-field id="lead" columns="12"/>
+              </p>
               <div class="btn-container">
                 <a class="btn btn-black btn-arrow" href="/survey">
                   <span>Let's go</span>
