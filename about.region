@@ -44,11 +44,11 @@
       <img class="logo" src="/assets/img/logo.svg" />
 
       <div class="social-media">
-        <div class="icon"><img src="/assets/img/facebook.svg" /></div>
-        <div class="icon"><img src="/assets/img/instagram.svg" /></div>
-        <div class="icon"><img src="/assets/img/twitter.svg" /></div>
+        <div class="icon"><a href="https://www.facebook.com/campaigntogether/"><img src="/assets/img/facebook.svg" /></a></div>
+        <!-- <div class="icon"><a href=""><img src="/assets/img/instagram.svg" /></a></div>-->
+        <div class="icon"><a href="https://twitter.com/CampaignTgthr"><img src="/assets/img/twitter.svg" /></a></div>
       </div>
-
+      
       <squarespace:navigation navigationId="mainNav" template="navigation" />
 
       <div class="imprint">
