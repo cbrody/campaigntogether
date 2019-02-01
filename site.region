@@ -20,9 +20,10 @@
             <div class="hero-box">
               <img class="logo" src="/assets/img/logo.svg" />
               <h2 class="title">{title}</h2>
-              <p class="lead">
+            <!--  <p class="lead">
                 <squarespace:block-field id="lead" columns="12"/>
               </p>
+            -->
             </div>
           </div>
         </div>
