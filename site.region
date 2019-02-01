@@ -19,13 +19,13 @@
           <div class="col-sm-12">
             <div class="hero-box">
               <img class="logo" src="/assets/img/logo.svg" />
-              <h2 class="title about">{collection.title}</h2>
+              <h2 class="title">{collection.title}</h2>
             </div>
           </div>
         </div>
       </div>
       <div class="bottom-image"><img src="/assets/img/header-bottom.png" /></div>
-
+      
         <!-- Main container -->
       <div class="container">
         <div class="row">
