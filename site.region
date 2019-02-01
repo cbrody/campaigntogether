@@ -19,28 +19,31 @@
           <div class="col-sm-12">
             <div class="hero-box">
               <img class="logo" src="/assets/img/logo.svg" />
-              <h2 class="title">{squarespace.title}</h2>
+              <h2 class="title">{collection.title}</h2>
             <!--  <p class="lead">
                 <squarespace:block-field id="lead" columns="12"/>
               </p>
             -->
             </div>
+
           </div>
         </div>
       </div>
       <div class="bottom-image"><img src="/assets/img/header-bottom.png" /></div>
 
-      <!-- Main container -->
+        <!-- Main container -->
       <div class="container">
         <div class="row">
           <div class="col-sm-12">
-            <div class="narrow-container about">
+            <div class="narrow-container">
               {squarespace.main-content}
             </div>
           </div>
         </div>
       </div>
     </div>
+
+
 
     <!-- Footer -->
     <div class="footer">
