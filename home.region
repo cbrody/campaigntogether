@@ -23,12 +23,12 @@
               <p class="lead">
                 <squarespace:block-field id="lead" columns="12"/>
               </p>
-              <!-- <div class="btn-container">
+               <div class="btn-container">
                 <a class="btn btn-black btn-arrow" href="/survey">
                   <span>Let's go</span>
                   <span><img class="arrow" src="/assets/img/button-arrow-white.svg" /></span>
                 </a>
-              </div> -->
+              </div>
             </div>
           </div>
         </div>
