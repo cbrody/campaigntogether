@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo:400,500,700');
+
+* {
+	font-family: 'Heebo';
+	font-weight: 400;
+}
+
+h1, h2 {
+	font-weight: 700;
+}
+
+h1 {
+	font-size: 2vw;
+
+	@include breakpoint(sm) {
+		font-size: 20px;
+	}
+
+	@include breakpoint(xs) {
+		font-size: 18px;
+	}
+}
+
+.intro {
+	font-size: 18px;
+
+    @include breakpoint(xs) {
+    	font-size: 16px;
+    }
+}
