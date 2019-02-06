@@ -2,6 +2,7 @@
 Code for www.campaigntogether.org
 
 To use this with squarespace (you will need correct credentials):
+
 ```$ git remote add squarespace https://squarespaceURL/template.git```
 
 So you should have:
